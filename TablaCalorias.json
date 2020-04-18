@@ -1,0 +1,16 @@
+{
+    "Comidas": [
+        {
+            "Comida": "Chilaquiles",
+            "Calorías": "69 kcal (1 porción)"
+        },
+        {
+            "Comida": "Sushi",
+            "Calorías": "24 kcal (1 porción)"
+        },
+        {
+            "Comida": "Manzana",
+            "Calorías": "69 kcal (1 porción)"
+        }
+    ]
+}
