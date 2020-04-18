@@ -1,19 +1,355 @@
 {
     "Comidas": [
         {
-            "Comida": "Chilaquiles",
+            "Comida": "Pollo_con_mole",
             "Calorías": "69 kcal (1 porción)"
         },
         {
-            "Comida": "Sushi",
+            "Comida": "beet_salad",
             "Calorías": "24 kcal (1 porción)"
         },
         {
-            "Comida": "Manzana",
+            "Comida": "french_toast",
             "Calorías": "69 kcal (1 porción)"
         },
         {
-            "Comida": "Gorditas",
+            "Comida": "Esquites",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "freek_salad",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "ramen",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "Enchiladas",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "grilled_salmon",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "chocolate_mousse",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "caprese_salad",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "steak",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "cheesecake",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "shrimps_and_grits",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "churrps",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "spaghetti_carbonara",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "Chilaquiles",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "paella",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "prime_rib",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "baby_back_ribs",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "falafel",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "pulled_pork_sandwich",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "club_sandwich",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "bread_pudding",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "spaguetti_bolognese",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "frozen_yogurt",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "garlic_bread",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "dumplings",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "waffles",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "grilled_cheese_sandwich",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "filet_mignon",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "lasagna",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "crab_cakes",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "ravioli",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "omelette",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "Tinga",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "bruschetta",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "macarons",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "Tamales",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "hamburger",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "Limes",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "Ate",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "spring_rolls",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "chocolate_cake",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "chicken_curry",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "apple_pie",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "Huevos Revueltos",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "tiramisu",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "burrito",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "Quesadillas",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "donuts",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "cheese_plate",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "nachos",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "ceviche",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "carrot_cake",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "Raspberry",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "macarona_and_cheese",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "creme_brulee",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "pork_chop",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "fried_rice",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "Tostadas",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "fish_and_chips",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "pancakes",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "panna_cotta",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "huevos_rancheros",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "edamame",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "pizza",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "sushi",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "Pozole",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "clam_chowder",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "french_onion_soup",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "gnocchi",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "french_fries",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "Chiles en Nogada",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "fried_calamari",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "chicken_wings",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "hot_dog",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "oysters",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "gorditas",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "onion_rings",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "caesar_salad",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "guacamole",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "Huevos_Estrellados",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "tacos",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "cup_cakes",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "Tacos al Pastor",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "ice_cream",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "huaraches",
+            "Calorías": "25 kcal (1 porción)"
+        },
+        {
+            "Comida": "hummus",
             "Calorías": "25 kcal (1 porción)"
         }
     ]
