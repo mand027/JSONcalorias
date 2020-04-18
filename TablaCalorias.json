@@ -11,6 +11,10 @@
         {
             "Comida": "Manzana",
             "Calorías": "69 kcal (1 porción)"
+        },
+        {
+            "Comida": "Gorditas",
+            "Calorías": "25 kcal (1 porción)"
         }
     ]
 }
