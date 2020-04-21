@@ -93,20 +93,20 @@
         {
             "Nombre": "Paella",
             "nombreML": "paella",
-            "Calorías": "25 kcal",
-            "Gramos": ""
+            "Calorías": "380 kcal",
+            "Gramos": "240g"
         },
         {
             "Nombre": "Prime Rib",
             "nombreML": "prime_rib",
-            "Calorías": "25 kcal",
-            "Gramos": ""
+            "Calorías": "676 kcal",
+            "Gramos": "200g"
         },
         {
             "Nombre": "Costillitas BBQ",
             "nombreML": "baby_back_ribs",
-            "Calorías": "25 kcal",
-            "Gramos": ""
+            "Calorías": "468 kcal",
+            "Gramos": "151g"
         },
         {
             "Nombre": "Falafel",
