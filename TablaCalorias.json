@@ -4,517 +4,517 @@
             "Nombre": "Pollo con mole",
             "nombreML": "Pollo_con_mole",
             "Calorías": "170 kcal",
-            "Gramos": "100g"
+            "Porcion": "100g"
         },
         {
             "Nombre": "Ensalada de Betabel",
             "nombreML": "beet_salad",
             "Calorías": "166 kcal",
-            "Gramos": "150g"
+            "Porcion": "150g"
         },
         {
             "Nombre": "Pan Frances",
             "nombreML": "french_toast",
             "Calorías": "210 kcal",
-            "Gramos": "100g"
+            "Porcion": "100g"
         },
         {
             "Nombre": "Esquites",
             "nombreML": "Esquites",
             "Calorías": "205",
-            "Gramos": "120g"
+            "Porcion": "120g"
         },
         {
             "Nombre": "Ensalada Griega",
             "nombreML": "greek_salad",
             "Calorías": "105 kcal",
-            "Gramos": "100g"
+            "Porcion": "100g"
         },
         {
             "Nombre": "Ramen",
             "nombreML": "ramen",
             "Calorías": "436g kcal",
-            "Gramos": "100g"
+            "Porcion": "100g"
         },
         {
             "Nombre": "Enchiladas",
             "nombreML": "Enchiladas",
             "Calorías": "450 kcal",
-            "Gramos": "300g"
+            "Porcion": "300g"
         },
         {
             "Nombre": "Salmon a la plancha",
             "nombreML": "grilled_salmon",
             "Calorías": "191 kcal",
-            "Gramos": "100g"
+            "Porcion": "100g"
         },
         {
             "Nombre": "Mousse de chocolate",
             "nombreML": "chocolate_mousse",
             "Calorías": "175 kcal",
-            "Gramos": "85g"
+            "Porcion": "85g"
         },
         {
             "Nombre": "Ensalada Caprese",
             "nombreML": "caprese_salad",
             "Calorías": "142 kcal",
-            "Gramos": "80g"
+            "Porcion": "80g"
         },
         {
             "Nombre": "Carne asada",
             "nombreML": "steak",
             "Calorías": "267 kcal",
-            "Gramos": "100g"
+            "Porcion": "100g"
         },
         {
             "Nombre": "Pay de queso",
             "nombreML": "cheesecake",
             "Calorías": "257 kcal",
-            "Gramos": "80g"
+            "Porcion": "80g"
         },
         {
             "Nombre": "Churros",
             "nombreML": "churrps",
             "Calorías": "111 kcal",
-            "Gramos": "25g"
+            "Porcion": "1 pieza"
         },
         {
             "Nombre": "Spaghetti a la carbonara",
             "nombreML": "spaghetti_carbonara",
             "Calorías": "360 kcal",
-            "Gramos": "100g"
+            "Porcion": "100g"
         },
         {
             "Nombre": "Chilaquiles",
             "nombreML": "Chilaquiles",
             "Calorías": "443 kcal",
-            "Gramos": "230g"
+            "Porcion": "230g"
         },
         {
             "Nombre": "Paella",
             "nombreML": "paella",
             "Calorías": "380 kcal",
-            "Gramos": "240g"
+            "Porcion": "240g"
         },
         {
             "Nombre": "Prime Rib",
             "nombreML": "prime_rib",
             "Calorías": "676 kcal",
-            "Gramos": "200g"
+            "Porcion": "200g"
         },
         {
             "Nombre": "Costillitas BBQ",
             "nombreML": "baby_back_ribs",
             "Calorías": "468 kcal",
-            "Gramos": "151g"
+            "Porcion": "151g"
         },
         {
             "Nombre": "Falafel",
             "nombreML": "falafel",
-            "Calorías": "25 kcal",
-            "Gramos": ""
+            "Calorías": "57 kcal",
+            "Porcion": "1 pieza"
         },
         {
             "Nombre": "Sandwich de cerdo desmenuzado",
             "nombreML": "pulled_pork_sandwich",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Club Sandwich",
             "nombreML": "club_sandwich",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Budin de pan",
             "nombreML": "bread_pudding",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Spaghetti a la bolognesa",
             "nombreML": "spaguetti_bolognese",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Helado de yoghurt",
             "nombreML": "frozen_yogurt",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Pan de ajo",
             "nombreML": "garlic_bread",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Dumplings",
             "nombreML": "dumplings",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Wafles",
             "nombreML": "waffles",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Grilled cheese sandwich",
             "nombreML": "grilled_cheese_sandwich",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Filet Mignon",
             "nombreML": "filet_mignon",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Lasagna",
             "nombreML": "lasagna",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Crab cake",
             "nombreML": "crab_cakes",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Ravioles",
             "nombreML": "ravioli",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Omelette",
             "nombreML": "omelette",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Tinga",
             "nombreML": "Tinga",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Bruschetta",
             "nombreML": "bruschetta",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Macarons",
             "nombreML": "macarons",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Tamales",
             "nombreML": "Tamales",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Hamburguesa",
             "nombreML": "hamburger",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Ate",
             "nombreML": "Ate",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Rollitos primavera",
             "nombreML": "spring_rolls",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Pastel de chocolate",
             "nombreML": "chocolate_cake",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Pollo con curry",
             "nombreML": "chicken_curry",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Pay de manzana",
             "nombreML": "apple_pie",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Huevos revueltos",
             "nombreML": "Huevos Revueltos",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Tiramisu",
             "nombreML": "tiramisu",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Burrito",
             "nombreML": "burrito",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Quesadillas",
             "nombreML": "Quesadillas",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Donas",
             "nombreML": "donuts",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Platos de queso",
             "nombreML": "cheese_plate",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Nachos",
             "nombreML": "nachos",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Ceviche",
             "nombreML": "ceviche",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Pastel de zanahoria",
             "nombreML": "carrot_cake",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Frambuesa",
             "nombreML": "Raspberry",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Macarrones con queso",
             "nombreML": "macarona_and_cheese",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Creme brulee",
             "nombreML": "creme_brulee",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Chuletas de cerdo",
             "nombreML": "pork_chop",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Arroz frito",
             "nombreML": "fried_rice",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Tostadas",
             "nombreML": "Tostadas",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Fish and chips",
             "nombreML": "fish_and_chips",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Hot cakes",
             "nombreML": "pancakes",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Panna cotta",
             "nombreML": "panna_cotta",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Huevos rancheros",
             "nombreML": "huevos_rancheros",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Edamames",
             "nombreML": "edamame",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Pizza",
             "nombreML": "pizza",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Sushi",
             "nombreML": "sushi",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Pozole",
             "nombreML": "Pozole",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Clam chowder",
             "nombreML": "clam_chowder",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Sopa de cebolla",
             "nombreML": "french_onion_soup",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Gnocchi",
             "nombreML": "gnocchi",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Papas a la francesa",
             "nombreML": "french_fries",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Chiles en nogada",
             "nombreML": "Chiles en Nogada",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Calamares fritos",
             "nombreML": "fried_calamari",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Alitas",
             "nombreML": "chicken_wings",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Hot dog",
             "nombreML": "hot_dog",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Ostiones",
             "nombreML": "oysters",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Gorditas",
             "nombreML": "gorditas",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Aros de cebolla",
             "nombreML": "onion_rings",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Ensalada cesar",
             "nombreML": "caesar_salad",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Guacamole",
             "nombreML": "guacamole",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Huevos estrellados",
             "nombreML": "Huevos_Estrellados",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Tacos",
             "nombreML": "tacos",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Cup Cakes",
             "nombreML": "cup_cakes",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Tacos al pastor",
             "nombreML": "Tacos al Pastor",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Helado",
             "nombreML": "ice_cream",
             "Calorías": "25 kcal",
-            "Gramos": ""
+            "Porcion": ""
         },
         {
             "Nombre": "Huaraches",
             "nombreML": "huaraches",
             "Calorías": "438 kcal",
-            "Gramos": "1 Pieza"
+            "Porcion": "1 Pieza"
         },
         {
             "Nombre": "Hummus",
             "nombreML": "hummus",
             "Calorías": "166 kcal",
-            "Gramos": "100g"
+            "Porcion": "100g"
         }
     ]
 }
